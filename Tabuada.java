@@ -3,7 +3,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-class Main 
+class Tabuada 
 {
     public static void main(String[] args) throws IOException 
     {
