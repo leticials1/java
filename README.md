@@ -1,2 +1,2 @@
-# prog2
-prog2
+JAVA
+
